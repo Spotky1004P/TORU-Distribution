@@ -11,14 +11,14 @@
       "id": "toru-1.16.5",
       "name": "toru (Minecraft 1.16.5)",
       "description": "toru Running Minecraft 1.16.5 (Forge v36.2.39)",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Spotky1004P/TORU-Launcher/main/app/assets/images/SealCircle.png",
       "version": "1.0.0",
       "address": "toru.mcv.kr",
       "minecraftVersion": "1.16.5",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "Toru Server",
+        "largeImageText": "1.16.5 Toru Server",
+        "largeImageKey": "logo"
       },
       "mainServer": true,
       "autoconnect": false,
