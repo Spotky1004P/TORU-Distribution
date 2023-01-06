@@ -13,7 +13,7 @@
       "description": "toru Running Minecraft 1.16.5 (Forge v36.2.39)",
       "icon": "https://raw.githubusercontent.com/Spotky1004P/TORU-Launcher/main/app/assets/images/SealCircle.png",
       "version": "1.0.0",
-      "address": "toru.mcv.kr",
+      "address": "toru.skhidc.kr",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "Toru Server",
